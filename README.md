@@ -7,7 +7,7 @@ This is a project to create a device that can create sand drawings on a flat sur
 
 Here's how it looks so far, 30 July, 2021:
 
-<img src="images/sandThing29July2021.png"></img>
+<img src="images/sandThing29July2021.jpg"></img>
 
 ## 3D Printed Parts
 
