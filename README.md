@@ -5,6 +5,8 @@ Arduino powered, 3D printed, sand art table.
 
 This is a project to create a device that can create sand drawings on a flat surface, using 3D printed parts, powered by an Arduino.
 
+The concept is fairly simple: a cicular plate holds a thin layer of sand and a metal ball.  Underneath the ball is a magnet chich can be moved via stepper motors that are controled by an Arduino board.  The desired affect is to drag the ball across the sand, via the magnet beneath, creating a picture in the sand.
+
 Here's how it looks so far, 30 July, 2021:
 
 <img src="images/sandThing29July2021.jpg"></img>
@@ -17,6 +19,17 @@ Here's a rendering of the design from 30 July, 2021:
 
 <img src="images/Sand Thing.PNG"></img>
 
+So far, these parts include a cage for the heat sink, contains for the stepper motors, a cage for the arm-loaded fan, as well as the arm assembly itself, which allows the magnet to move both in the radial and azimuthal directions.
+
+## Electronics
+
+This project uses (TBF):
+   * Arduino (version?)
+   * Motor chips?
+   * 2 Stepper Motors (type?)
+   * Fan
+   * Heat sink
+   
 ## Wiring
 
 TBD
