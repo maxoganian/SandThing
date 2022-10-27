@@ -7,9 +7,11 @@ This is a project to create a device that can create sand drawings on a flat sur
 
 The concept is fairly simple: a cicular plate holds a thin layer of sand and a metal ball.  Underneath the ball is a magnet chich can be moved via stepper motors that are controled by an Arduino board.  The desired affect is to drag the ball across the sand, via the magnet beneath, creating a picture in the sand.
 
-Here's how it looks so far, 30 July, 2021:
+<img src="images/sandThingDone.png" width="500">
 
-<img src="images/sandThing29July2021.jpg"></img>
+<img src="images/sandThingLights.png" width="500">
+
+
 
 ## 3D Printed Parts
 
@@ -23,17 +25,26 @@ So far, these parts include a cage for the heat sink, contains for the stepper m
 
 ## Electronics
 
-This project uses (TBF):
-   * Arduino (version?)
-   * Motor chips?
-   * 2 Stepper Motors (type?)
+This project uses:
+   * Arduino 
+   * Motor chips
+   * 2 Stepper Motors
    * Fan
    * Heat sink
    
-## Wiring
-
-TBD
 
 ## Source Code
 
-The code can be found in the src directory.  As of this writing it is simply a test program utilizing the Stepper library.
+The code can be found in the src directory.  
+
+## Gallery
+
+Here's how it looked at the start, 30 July, 2021:
+
+<img src="images/sandThing29July2021.jpg"></img>
+
+It took some experimentation to see what kind of 'sand' worked best:
+
+<img src="images/sandThingDevelopment.png" width="500">
+
+
