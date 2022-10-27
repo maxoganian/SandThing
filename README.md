@@ -11,7 +11,7 @@ The concept is fairly simple: a cicular plate holds a thin layer of sand and a m
 
 <img src="images/sandThingLights.jpg" width="500">
 
-
+<img src="images/sandThingInside.jpg" width="500">
 
 ## 3D Printed Parts
 
